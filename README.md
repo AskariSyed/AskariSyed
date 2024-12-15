@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @AskariSyed  
 - 👀 I’m interested in software development, database management, cybersecurity, and innovative tech solutions.  
+- 🌱 I’m currently pursuing a **Bachelor of Science in Computer Science (BSCS)** from **COMSATS University Islamabad** (2022-2026).  
 - 🌱 I’m currently learning advanced database systems, C#, and shell scripting.  
 - 💞️ I’m looking to collaborate on projects related to programming, database systems, and quality assurance testing.  
 - 📫 How to reach me: [Email](mailto:s.askarizaidi04@gmail.com) | [Phone](tel:+923355552845)  
