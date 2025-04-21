@@ -33,3 +33,15 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AskariSyed&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
+
+### ⚡ GitHub Activity Graph
+[![AskariSyed's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AskariSyed&theme=tokyo-night&bg_color=1a1b27&hide_border=true)](https://github.com/AskariSyed)
+
+---
+
+### 🔥 Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AskariSyed&theme=tokyonight" alt="Contribution Streak" />
+</p>
