@@ -8,7 +8,7 @@
 - 🤝 Looking to collaborate on **software projects**, **web dev**, and **QA testing**  
 - 📫 Reach me at: [s.askarizaidi04@gmail.com](mailto:s.askarizaidi04@gmail.com)  
 - 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: My passion for coding began when I studied **C and C++ OOP** in school!
+- ⚡ Fun fact: My passion for coding began when I studied **C and C++  OOP** in school!
 
 ---
 
