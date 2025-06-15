@@ -3,7 +3,7 @@
 
 - 🎓 Pursuing **BS in Computer Science** at **COMSATS University Islamabad** (2022–2026)  
 - ✅ Gained hands-on experience in **C# (.NET)** and **Database Systems**  
-- 🌱 Currently learning **Flutter**, **HTML**, **CSS**, **JavaScript**, **Angular**, and **Laravel**  
+- 🌱 Currently learning **Flutter**, **HTML**, **CSS**, **JavaScript**, and **Laravel**  
 - 🔎 Interested in **Software Development**, **Database Management**, **Cybersecurity**, and more  
 - 🤝 Looking to collaborate on **software projects**, **web dev**, and **QA testing**  
 - 📫 Reach me at: [s.askarizaidi04@gmail.com](mailto:s.askarizaidi04@gmail.com)  
@@ -22,7 +22,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
