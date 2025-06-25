@@ -77,7 +77,6 @@ I’m a passionate CS student exploring the world of software development, datab
 - Test Case Documentation & Bug Reporting  
 - Functional, Regression & Smoke Testing  
 - Access Reviews, Authentication Flaw Reporting  
-- Audit Experience (First Pay, Access Banking, TMS, EBS)
 
 ---
 
