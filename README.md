@@ -21,6 +21,54 @@ I’m a passionate CS student exploring the world of software development, datab
 
 ---
 
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+---
+
+### 🚀 My Skills Progress
+
+**C#**              ▰▰▰▰▰▰▰▰▱▱ 80%  
+**Java**            ▰▰▰▰▰▰▰▱▱▱ 70%  
+**Python**          ▰▰▰▰▰▰▰▰▰▱ 90%  
+**Flutter**         ▰▰▰▰▰▰▱▱▱▱ 60%  
+**Laravel**         ▰▰▰▰▰▱▱▱▱▱ 50%  
+**WordPress**       ▰▰▰▰▱▱▱▱▱▱ 40%  
+**Machine Learning** ▰▰▰▱▱▱▱▱▱▱ 30%
+
+---
+
+### 🧪 QA & Testing Experience
+- Manual Testing: Web + Android Banking Apps  
+- Test Case Documentation & Bug Reporting  
+- Functional, Regression & Smoke Testing  
+- Access Reviews, Authentication Flaw Reporting  
+- Audit Experience (First Pay, Access Banking, TMS, EBS)
+
+---
+
+### 🧠 Currently Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-607D8B?style=for-the-badge&logo=ai&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+</p>
+
+---
+
 ### 🚀 Highlight Projects
 
 - 🏦 **[Bank Management System (C# & Oracle DB)](https://github.com/AskariSyed/BankingManagementSystem)**  
@@ -37,49 +85,19 @@ I’m a passionate CS student exploring the world of software development, datab
 
 ---
 
-### 🛠️ Tech Stack
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-### 🧪 QA & Testing Experience
-- Manual Testing: Web + Android Banking Apps  
-- Test Case Documentation & Bug Reporting  
-- Functional, Regression & Smoke Testing  
-- Access Reviews, Authentication Flaw Reporting  
-- Audit Experience (First Pay, Access Banking, TMS, EBS)
-
----
-
-### 🧠 Currently Learning
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/AI-607D8B?style=for-the-badge&logo=ai&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
----
-
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AskariSyed&show_icons=true&theme=tokyonight" />
-  <br>
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AskariSyed&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### ⚡ GitHub Activity Graph
-[![AskariSyed's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AskariSyed&theme=tokyo-night&bg_color=1a1b27&hide_border=true)](https://github.com/AskariSyed)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AskariSyed&theme=tokyo-night&bg_color=1a1b27&hide_border=true" />
+</p>
 
 ---
 
