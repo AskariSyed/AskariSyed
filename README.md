@@ -7,7 +7,7 @@
 📍 Islamabad, Pakistan  
 📧 [askari.syed04@gmail.com](mailto:askari.syed04@gmail.com)  
 📞 +92 335-5552845  
-🔗 [GitHub](https://github.com/AskariSyed) | [LinkedIn](#) *(Add your link)*
+🔗 [LinkedIn](https://www.linkedin.com/in/syed-hassan-askari)
 
 ---
 
@@ -23,16 +23,16 @@ I’m a passionate CS student exploring the world of software development, datab
 
 ### 🚀 Highlight Projects
 
-- 🏦 **[Bank Management System (C# & Oracle DB)](https://github.com/AskariSyed/Bank-Management-System)**  
+- 🏦 **[Bank Management System (C# & Oracle DB)](https://github.com/AskariSyed/BankingManagementSystem)**  
   Secure banking software with authentication, transactions, and encrypted storage.
 
 - 📅 **[Event Reminder App (Flutter & Firebase)](https://github.com/AskariSyed/Event-Reminder-App)**  
   Mobile app with Google Auth, CRUD events, push notifications, and calendar sync.
 
-- 🎥 **[Video Rental System (Java)](https://github.com/AskariSyed/Video-Rental-System)**  
+- 🎥 **[Video Rental System (Java)](https://github.com/AskariSyed/VideoRentalSystemFinal)**  
   Desktop app with inventory and rental tracking via file handling.
 
-- 🏘️ **[Real Estate Listing Platform (Laravel)](https://github.com/AskariSyed/RealEstate-Platform)**  
+- 🏘️ **[Real Estate Listing Platform (Laravel)](https://github.com/annaawan/realestate)**  
   Full-stack web app for property listings with complete CRUD and UI design.
 
 ---
@@ -92,6 +92,5 @@ I’m a passionate CS student exploring the world of software development, datab
 
 ### 💬 Let’s Connect!
 - 📫 Email: [askari.syed04@gmail.com](mailto:askari.syed04@gmail.com)  
-- 💼 LinkedIn: *(Add your profile link)*  
+- 💼 LinkedIn: [linkedin.com/in/syed-hassan-askari](https://www.linkedin.com/in/syed-hassan-askari)  
 - 🌐 Portfolio: Coming soon!
-
