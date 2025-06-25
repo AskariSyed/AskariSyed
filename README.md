@@ -78,6 +78,7 @@ I’m a passionate CS student exploring the world of software development, datab
   </div>
 </div>
 
+---
 
 ### 🧪 QA & Testing Experience
 - Manual Testing: Web + Android Banking Apps  
@@ -88,7 +89,8 @@ I’m a passionate CS student exploring the world of software development, datab
 
 ---
 
-### 🧠 Currently Learning
+<h3 align="center">🧠 Currently Learning</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-607D8B?style=for-the-badge&logo=ai&logoColor=white" alt="AI" />
@@ -116,16 +118,14 @@ I’m a passionate CS student exploring the world of software development, datab
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AskariSyed&show_icons=true&theme=tokyonight" />
-  <br />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AskariSyed&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### ⚡ GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AskariSyed&theme=tokyo-night&bg_color=1a1b27&hide_border=true" />
-</p>
+[![AskariSyed's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AskariSyed&theme=tokyo-night&bg_color=1a1b27&hide_border=true)](https://github.com/AskariSyed)
 
 ---
 
