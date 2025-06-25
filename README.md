@@ -37,38 +37,6 @@ I’m a passionate CS student exploring the world of software development, datab
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
----
-
-<h3 align="center">🚀 My Skills Progress</h3>
-
-<p align="center">
-  <b>C#</b><br>
-  🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%
-</p>
-<p align="center">
-  <b>Java</b><br>
-  🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%
-</p>
-<p align="center">
-  <b>Python</b><br>
-  🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%
-</p>
-<p align="center">
-  <b>Flutter</b><br>
-  🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60%
-</p>
-<p align="center">
-  <b>Laravel</b><br>
-  🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50%
-</p>
-<p align="center">
-  <b>WordPress</b><br>
-  🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40%
-</p>
-<p align="center">
-  <b>Machine Learning</b><br>
-  🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30%
-</p>
 
 ---
 
