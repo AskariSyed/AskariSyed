@@ -39,17 +39,45 @@ I’m a passionate CS student exploring the world of software development, datab
 
 ---
 
-### 🚀 My Skills Progress
+<h3 align="center">🚀 My Skills Progress</h3>
 
-**C#**              ▰▰▰▰▰▰▰▰▱▱ 80%  
-**Java**            ▰▰▰▰▰▰▰▱▱▱ 70%  
-**Python**          ▰▰▰▰▰▰▰▰▰▱ 90%  
-**Flutter**         ▰▰▰▰▰▰▱▱▱▱ 60%  
-**Laravel**         ▰▰▰▰▰▱▱▱▱▱ 50%  
-**WordPress**       ▰▰▰▰▱▱▱▱▱▱ 40%  
-**Machine Learning** ▰▰▰▱▱▱▱▱▱▱ 30%
+<div align="center" style="max-width: 600px; margin: auto;">
+  <p><strong>C#</strong></p>
+  <div style="background-color: #ddd; border-radius: 10px; width: 100%; height: 15px;">
+    <div style="width: 80%; height: 15px; background: linear-gradient(90deg, #239120, #56ab2f); border-radius: 10px;"></div>
+  </div>
 
----
+  <p><strong>Java</strong></p>
+  <div style="background-color: #ddd; border-radius: 10px; width: 100%; height: 15px;">
+    <div style="width: 70%; height: 15px; background: linear-gradient(90deg, #ED8B00, #FFA500); border-radius: 10px;"></div>
+  </div>
+
+  <p><strong>Python</strong></p>
+  <div style="background-color: #ddd; border-radius: 10px; width: 100%; height: 15px;">
+    <div style="width: 90%; height: 15px; background: linear-gradient(90deg, #3776AB, #6DB3F2); border-radius: 10px;"></div>
+  </div>
+
+  <p><strong>Flutter</strong></p>
+  <div style="background-color: #ddd; border-radius: 10px; width: 100%; height: 15px;">
+    <div style="width: 60%; height: 15px; background: linear-gradient(90deg, #02569B, #04a0e5); border-radius: 10px;"></div>
+  </div>
+
+  <p><strong>Laravel</strong></p>
+  <div style="background-color: #ddd; border-radius: 10px; width: 100%; height: 15px;">
+    <div style="width: 50%; height: 15px; background: linear-gradient(90deg, #FF2D20, #FF6B6B); border-radius: 10px;"></div>
+  </div>
+
+  <p><strong>WordPress</strong></p>
+  <div style="background-color: #ddd; border-radius: 10px; width: 100%; height: 15px;">
+    <div style="width: 40%; height: 15px; background: linear-gradient(90deg, #21759B, #6CA0DC); border-radius: 10px;"></div>
+  </div>
+
+  <p><strong>Machine Learning</strong></p>
+  <div style="background-color: #ddd; border-radius: 10px; width: 100%; height: 15px;">
+    <div style="width: 30%; height: 15px; background: linear-gradient(90deg, #009688, #4DB6AC); border-radius: 10px;"></div>
+  </div>
+</div>
+
 
 ### 🧪 QA & Testing Experience
 - Manual Testing: Web + Android Banking Apps  
