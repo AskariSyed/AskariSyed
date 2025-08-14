@@ -12,12 +12,18 @@
 ---
 
 ### 👨‍💻 About Me
-I’m a passionate CS student exploring the world of software development, databases, and intelligent tech solutions. From building mobile apps to testing real-world banking systems, I enjoy working on meaningful projects and constantly expanding my skill set.
 
-- 🔧 Skilled in C#, Java, Python, C++, Flutter, Laravel, WordPress  
-- 🛡️ QA testing experience at **HBL Microfinance Bank**  
-- 💡 Built full-stack, desktop, and mobile applications  
-- 🌱 Currently learning **Machine Learning**, **AI**, and **WordPress customization**
+I’m a passionate Computer Science student exploring software development, databases, and intelligent tech solutions. I enjoy building mobile, web, and desktop applications, contributing to real-world projects, and continuously expanding my skills in modern technologies.
+
+🔧 Technical Skills: C#, Java, Python, C++, Flutter (Dart), Laravel, WordPress
+
+🛡️ QA & Testing: Manual functional and regression testing experience at HBL Microfinance Bank
+
+💡 Projects: Full-stack web apps, desktop applications (WPF/.NET), and mobile apps (Flutter & Firebase)
+
+🌱 Currently Learning: Machine Learning, AI, Advanced WordPress customization
+
+🚀 GitHub Focus: Sharing practical projects, code samples, and innovative solutions
 
 ---
 
@@ -32,20 +38,43 @@ I’m a passionate CS student exploring the world of software development, datab
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
+
 
 
 ---
 
-### 🧪 QA & Testing Experience
-- Manual Testing: Web + Android Banking Apps  
-- Test Case Documentation & Bug Reporting  
-- Functional, Regression & Smoke Testing  
-- Access Reviews, Authentication Flaw Reporting  
+###**💼 Professional Experience**
 
+**Pakistan Telecommunication Authority (PTA) — ICT Intern**
+July/2025 – Present
+
+Contributing to the development of E-Diary, a Flutter mobile app with ASP.NET Web API backend, following Agile methodology.
+
+Implemented drag-and-drop functionality, consumed REST APIs, and managed state using Provider.
+
+Collaborated with cross-functional teams to refine user stories, conduct testing, and deliver sprint goals.
+
+Assisted in debugging, feature testing, and API validation to ensure application stability.
+
+**HBL Microfinance Bank — Quality Assurance Intern**
+Jul/2024 – Sep/2024
+
+Performed manual testing on web and Android banking applications.
+
+Conducted functional, regression, and smoke testing, created test cases, and documented bugs.
+
+Identified security flaws, validated authentication, and assisted in quarterly access reviews.
+
+Utilized Excel and VBA macros to automate reporting and streamline testing processes.
 ---
 
 <h3 align="center">🧠 Currently Learning</h3>
@@ -71,6 +100,8 @@ I’m a passionate CS student exploring the world of software development, datab
 
 - 🏘️ **[Real Estate Listing Platform (Laravel)](https://github.com/annaawan/realestate)**  
   Full-stack web app for property listings with complete CRUD and UI design.
+- 📔 **[E-Diary (Flutter & ASP.NET Web API)](https://github.com/AskariSyed/Diary)**
+  Digital diary app with REST API backend, drag-and-drop functionality, provider-based state management, and CRUD operations for notes and tasks.
 
 ---
 
