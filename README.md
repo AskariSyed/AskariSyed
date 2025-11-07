@@ -52,7 +52,7 @@ I’m a passionate Computer Science student exploring software development, data
 
 ---
 
-###**💼 Professional Experience**
+**💼 Professional Experience**
 
 **Pakistan Telecommunication Authority (PTA) — ICT Intern**
 July/2025 – Present
