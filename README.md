@@ -129,4 +129,4 @@ Utilized Excel and VBA macros to automate reporting and streamline testing proce
 ### 💬 Let’s Connect!
 - 📫 Email: [askari.syed04@gmail.com](mailto:askari.syed04@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/syed-hassan-askari](https://www.linkedin.com/in/syed-hassan-askari)  
-- 🌐 Portfolio: Coming soon!
+- 🌐 Portfolio: [Portfolio](https://portfolioaskarisyed.vercel.app/)
