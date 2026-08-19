@@ -168,7 +168,6 @@ Proposed a task-aware multi-stage framework, improving EfficientNet-B2 classific
 - Software QA & Test Automation Engineering Specialization — Coursera (Jul 2026)
 - Google Cybersecurity Professional Certificate — Coursera (Sep 2023)
 - Merit Certificate — Perfect 4.00/4.00 SGPA, 7th Semester (2025)
-- IELTS Academic — Band 7.0
 - Head of Operations / Advisor, Student Startup Business Society (Sep 2024 – Jun 2026)
 
 ---
