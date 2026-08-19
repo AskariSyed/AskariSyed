@@ -136,20 +136,27 @@ Proposed a task-aware multi-stage framework, improving EfficientNet-B2 classific
 - 🎓 **OpenHouse & Job Fair Portal** *(Final Year Project · Sep 2025 – Jun 2026)*
   Full-stack recruitment platform (React, Flutter, ASP.NET Core 8 Web API, PostgreSQL) with real-time SignalR/Firebase communication and a conflict-free auto-scheduling algorithm handling hundreds of interview slots. Beta-tested at the Spring 2026 CUI Wah job fair with 150+ students and 20+ recruiters. Deployed on AWS EC2 with Docker and NGINX.
 
-- 🏦 **[Bank Management System (C# & Oracle DB)](https://github.com/AskariSyed/BankingManagementSystem)**
-  Secure banking software with role-based access, normalized schemas, and encrypted storage.
-
-- 📅 **[Event Reminder App (Flutter & Firebase)](https://github.com/AskariSyed/Event-Reminder-App)**
-  Mobile app with Google Auth, CRUD events, push notifications, and calendar sync.
-
-- 🏘️ **[Real Estate Listing Platform (Laravel & MySQL)](https://github.com/annaawan/realestate)**
-  Full-stack web app for property listings with secure auth, dynamic search, and complete CRUD.
-
-- 📔 **[E-Diary (Flutter & ASP.NET Web API)](https://github.com/AskariSyed/Diary)**
-  Digital diary app with REST API backend, drag-and-drop functionality, provider-based state management, and CRUD operations for notes and tasks.
-
-- 🎥 **[Video Rental System (Java)](https://github.com/AskariSyed/VideoRentalSystemFinal)**
-  Desktop app with inventory and rental tracking via file handling.
+<p align="center">
+  <a href="https://github.com/AskariSyed/BankingManagementSystem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AskariSyed&repo=BankingManagementSystem&theme=tokyonight" width="48%" />
+  </a>
+  <a href="https://github.com/AskariSyed/Event-Reminder-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AskariSyed&repo=Event-Reminder-App&theme=tokyonight" width="48%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/annaawan/realestate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=annaawan&repo=realestate&theme=tokyonight" width="48%" />
+  </a>
+  <a href="https://github.com/AskariSyed/Diary">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AskariSyed&repo=Diary&theme=tokyonight" width="48%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/AskariSyed/VideoRentalSystemFinal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AskariSyed&repo=VideoRentalSystemFinal&theme=tokyonight" width="48%" />
+  </a>
+</p>
 
 ---
 
