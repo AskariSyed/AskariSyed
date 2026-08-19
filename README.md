@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Full-Stack+%2F+.NET+%26+Flutter+Developer;Software+QA+%26+Test+Automation;Researching+Computer+Vision+%26+Deep+Learning;Aspiring+MS+Student+in+AI+%2F+CV" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Full-Stack+%2F+.NET+%26+Flutter+Developer;Software+QA+%26+Test+Automation;Researching+Computer+Vision+%26+Deep+Learning;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,8 +31,6 @@ I'm a Computer Science graduate with hands-on industry experience across full-st
 🛡️ QA & Testing: Manual functional/regression testing, test case design, defect lifecycle management (HBL Microfinance Bank)
 
 🔬 Research: Undergraduate research on traffic sign classification under snow-degraded conditions — manuscript in preparation for MDPI Sensors, improving EfficientNet-B2 accuracy from 68.02% to 87.34%
-
-🎓 Teaching Assistant: Data Structures & Algorithms, Pattern Recognition, Compiler Construction, and Artificial Intelligence @ COMSATS University Islamabad
 
 🌱 Currently Exploring: Machine Learning, Deep Learning, Computer Vision, Large Language Models
 
@@ -76,13 +74,6 @@ I'm a Computer Science graduate with hands-on industry experience across full-st
 ---
 
 **💼 Professional Experience**
-
-**Teaching Assistant — Department of Computer Science, COMSATS University Islamabad**
-Feb 2025 – Jun 2026
-
-Supported Data Structures & Algorithms, Pattern Recognition, Compiler Construction, and Artificial Intelligence across Spring 2025, Fall 2025, and Spring 2026.
-
-Assisted with quizzes, assignments, projects, exams, viva evaluations, and grading.
 
 **Pakistan Telecommunication Authority (PTA) — ICT Intern**
 Jul 2025 – Sep 2025
