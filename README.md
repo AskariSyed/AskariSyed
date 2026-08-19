@@ -81,12 +81,19 @@ I'm an aspiring Software Engineer and Computer Science graduate with hands-on in
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-<h4 align="center">Databases & Tools</h4>
+<h4 align="center">Databases</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+<h4 align="center">Testing & QA</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
@@ -145,8 +152,8 @@ Proposed a task-aware multi-stage framework, improving EfficientNet-B2 classific
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/annaawan/realestate">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=annaawan&repo=realestate&theme=tokyonight" width="48%" />
+  <a href="https://github.com/AskariSyed/ParallelPlagiarismChecker">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AskariSyed&repo=ParallelPlagiarismChecker&theme=tokyonight" width="48%" />
   </a>
   <a href="https://github.com/AskariSyed/Diary">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AskariSyed&repo=Diary&theme=tokyonight" width="48%" />
