@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Syed%20Muhammad%20Hassan%20Askari%20Zaidi&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Developer%20%7C%20QA%20and%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Syed%20Muhammad%20Hassan%20Askari%20Zaidi&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Engineer%20%7C%20QA%20and%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Full-Stack+%2F+.NET+%26+Flutter+Developer;Software+QA+%26+Test+Automation;Researching+Computer+Vision+%26+Deep+Learning;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Full-Stack+%2F+.NET+%26+Flutter+Developer;Software+QA+%26+Test+Automation;Researching+Computer+Vision+%26+Deep+Learning;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="350">
 
-I'm a Computer Science graduate with hands-on industry experience across full-stack development, DevOps, and Software Quality Assurance — and a growing research focus in Computer Vision and Deep Learning. I enjoy architecting production-ready systems, from Flutter/.NET mobile-backend pipelines to containerized cloud deployments, while also digging into applied ML research.
+I'm an aspiring Software Engineer and Computer Science graduate with hands-on industry experience across full-stack development, DevOps, and Software Quality Assurance — and a growing research focus in Computer Vision and Deep Learning. I enjoy architecting production-ready systems, from Flutter/.NET mobile-backend pipelines to containerized cloud deployments, while also digging into applied ML research.
 
 🔧 Technical Skills: C#, Python, C++, Dart, JavaScript, PHP, SQL, VBA
 
@@ -153,11 +153,11 @@ Proposed a task-aware multi-stage framework, improving EfficientNet-B2 classific
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/AskariSyed/VideoRentalSystemFinal">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AskariSyed&repo=VideoRentalSystemFinal&theme=tokyonight" width="48%" />
-  </a>
   <a href="https://github.com/AskariSyed/AI-Email-Copilot">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AskariSyed&repo=AI-Email-Copilot&theme=tokyonight" width="48%" />
+  </a>
+  <a href="https://github.com/AskariSyed/TaxCalculator">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AskariSyed&repo=TaxCalculator&theme=tokyonight" width="48%" />
   </a>
 </p>
 
