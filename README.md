@@ -157,11 +157,15 @@ Proposed a task-aware multi-stage framework, improving EfficientNet-B2 classific
 
 ---
 
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AskariSyed&theme=tokyonight" />
-</p>
+### 🐍 Contribution Snake
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AskariSyed/AskariSyed/main/dist/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AskariSyed/AskariSyed/main/dist/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/AskariSyed/AskariSyed/main/dist/github-snake.svg" alt="GitHub contribution snake" />
+  </picture>
+</p>
 ---
 
 ### 🏆 Certifications & Honors
@@ -179,10 +183,3 @@ Proposed a task-aware multi-stage framework, improving EfficientNet-B2 classific
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-<!--
-  🔧 SETUP NOTE — Contribution Snake Animation
-  1. In your AskariSyed/AskariSyed repo, go to Actions → New workflow → set up a workflow yourself.
-  2. Name it snake.yml and paste in the workflow from https://github.com/Platane/snk#-installation
-  3. Commit it. The action runs automatically (and daily via cron) and generates the SVG
-     used in the "Contribution Snake" section above — no further changes needed here.
--->
