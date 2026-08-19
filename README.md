@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Syed%20Muhammad%20Hassan%20Askari%20Zaidi&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20|%20Aspiring%20Software%20Developer%20|%20QA%20%26%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Syed%20Muhammad%20Hassan%20Askari%20Zaidi&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Developer%20%7C%20QA%20and%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
