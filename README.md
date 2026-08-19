@@ -2,17 +2,17 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%40+COMSATS;Flutter+%26+.NET+Developer;QA+%26+Software+Testing+Enthusiast;Currently+Exploring+Machine+Learning+%26+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Full-Stack+%2F+.NET+%26+Flutter+Developer;Software+QA+%26+Test+Automation;Researching+Computer+Vision+%26+Deep+Learning;Aspiring+MS+Student+in+AI+%2F+CV" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-🎓 **BS Computer Science** – COMSATS University Islamabad (2022–2026)
+🎓 **BS Computer Science** – COMSATS University Islamabad, Wah Campus (2022–2026) · CGPA 3.65/4.00
 📍 Islamabad, Pakistan
 📧 [askari.syed04@gmail.com](mailto:askari.syed04@gmail.com)
 📞 +92 335-5552845
-🔗 [LinkedIn](https://www.linkedin.com/in/syed-hassan-askari)
+🔗 [LinkedIn](https://www.linkedin.com/in/syed-hassan-askari) · 🌐 [Portfolio](https://portfolioaskarisyed.vercel.app/)
 
 ---
 
@@ -20,17 +20,23 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="350">
 
-I'm a passionate Computer Science student exploring software development, databases, and intelligent tech solutions. I enjoy building mobile, web, and desktop applications, contributing to real-world projects, and continuously expanding my skills in modern technologies.
+I'm a Computer Science graduate with hands-on industry experience across full-stack development, DevOps, and Software Quality Assurance — and a growing research focus in Computer Vision and Deep Learning. I enjoy architecting production-ready systems, from Flutter/.NET mobile-backend pipelines to containerized cloud deployments, while also digging into applied ML research.
 
-🔧 Technical Skills: C#, Java, Python, C++, Flutter (Dart), Laravel, WordPress
+🔧 Technical Skills: C#, Python, C++, Dart, JavaScript, PHP, SQL, VBA
 
-🛡️ QA & Testing: Manual functional and regression testing experience at HBL Microfinance Bank
+🏗️ Frameworks: ASP.NET Core 8, React.js, Flutter, Laravel, SignalR
 
-💡 Projects: Full-stack web apps, desktop applications (WPF/.NET), and mobile apps (Flutter & Firebase)
+☁️ Cloud & DevOps: AWS (EC2), Docker, Kubernetes, Jenkins, Git, GitHub Actions, NGINX, Linux
 
-🌱 Currently Learning: Machine Learning, AI, Advanced WordPress customization
+🛡️ QA & Testing: Manual functional/regression testing, test case design, defect lifecycle management (HBL Microfinance Bank)
 
-🚀 GitHub Focus: Sharing practical projects, code samples, and innovative solutions
+🔬 Research: Undergraduate research on traffic sign classification under snow-degraded conditions — manuscript in preparation for MDPI Sensors, improving EfficientNet-B2 accuracy from 68.02% to 87.34%
+
+🎓 Teaching Assistant: Data Structures & Algorithms, Pattern Recognition, Compiler Construction, and Artificial Intelligence @ COMSATS University Islamabad
+
+🌱 Currently Exploring: Machine Learning, Deep Learning, Computer Vision, Large Language Models
+
+🚀 GitHub Focus: Sharing practical projects, code samples, and research-adjacent experiments
 
 <br clear="right"/>
 
@@ -40,20 +46,30 @@ I'm a passionate Computer Science student exploring software development, databa
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <br/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <br/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <br/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
@@ -61,56 +77,69 @@ I'm a passionate Computer Science student exploring software development, databa
 
 **💼 Professional Experience**
 
+**Teaching Assistant — Department of Computer Science, COMSATS University Islamabad**
+Feb 2025 – Jun 2026
+
+Supported Data Structures & Algorithms, Pattern Recognition, Compiler Construction, and Artificial Intelligence across Spring 2025, Fall 2025, and Spring 2026.
+
+Assisted with quizzes, assignments, projects, exams, viva evaluations, and grading.
+
 **Pakistan Telecommunication Authority (PTA) — ICT Intern**
-July/2025 – Present
+Jul 2025 – Sep 2025
 
-Contributing to the development of E-Diary, a Flutter mobile app with ASP.NET Web API backend, following Agile methodology.
+Developed an ASP.NET Web API backend and Flutter frontend for E-Diary, a documentation and workflow digitization system, following Agile methodology.
 
-Implemented drag-and-drop functionality, consumed REST APIs, and managed state using Provider.
+Designed relational database schemas, consumed REST APIs, and validated endpoints for secure data storage and retrieval.
 
-Collaborated with cross-functional teams to refine user stories, conduct testing, and deliver sprint goals.
-
-Assisted in debugging, feature testing, and API validation to ensure application stability.
+Collaborated with cross-functional teams in sprint meetings to refine requirements and deliver iterative progress.
 
 **HBL Microfinance Bank — Quality Assurance Intern**
-Jul/2024 – Sep/2024
+Jul 2024 – Sep 2024
 
-Performed manual testing on web and Android banking applications.
+Performed manual functional, regression, and smoke testing on web and Android banking applications.
 
-Conducted functional, regression, and smoke testing, created test cases, and documented bugs.
+Designed and documented detailed test cases; identified, tracked, and reported defects.
 
-Identified security flaws, validated authentication, and assisted in quarterly access reviews.
-
-Utilized Excel and VBA macros to automate reporting and streamline testing processes.
+Automated repetitive QA tasks using Excel and VBA macros, and supported quarterly access reviews.
 
 ---
 
-<h3 align="center">🧠 Currently Learning</h3>
+<h3 align="center">🔬 Research</h3>
+
+<p align="center">
+<b>Multi-Stage Traffic Sign Classification Under Heavy Snow</b> · 2025<br/>
+Manuscript in preparation for submission to <i>MDPI Sensors</i><br/>
+Proposed a task-aware multi-stage framework, improving EfficientNet-B2 classification accuracy from 68.02% to 87.34%
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-607D8B?style=for-the-badge&logo=ai&logoColor=white" alt="AI" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
 </p>
 
 ---
 
 ### 🚀 Highlight Projects
 
+- 🎓 **OpenHouse & Job Fair Portal** *(Final Year Project · Sep 2025 – Jun 2026)*
+  Full-stack recruitment platform (React, Flutter, ASP.NET Core 8 Web API, PostgreSQL) with real-time SignalR/Firebase communication and a conflict-free auto-scheduling algorithm handling hundreds of interview slots. Beta-tested at the Spring 2026 CUI Wah job fair with 150+ students and 20+ recruiters. Deployed on AWS EC2 with Docker and NGINX.
+
 - 🏦 **[Bank Management System (C# & Oracle DB)](https://github.com/AskariSyed/BankingManagementSystem)**
-  Secure banking software with authentication, transactions, and encrypted storage.
+  Secure banking software with role-based access, normalized schemas, and encrypted storage.
 
 - 📅 **[Event Reminder App (Flutter & Firebase)](https://github.com/AskariSyed/Event-Reminder-App)**
   Mobile app with Google Auth, CRUD events, push notifications, and calendar sync.
 
-- 🎥 **[Video Rental System (Java)](https://github.com/AskariSyed/VideoRentalSystemFinal)**
-  Desktop app with inventory and rental tracking via file handling.
-
-- 🏘️ **[Real Estate Listing Platform (Laravel)](https://github.com/annaawan/realestate)**
-  Full-stack web app for property listings with complete CRUD and UI design.
+- 🏘️ **[Real Estate Listing Platform (Laravel & MySQL)](https://github.com/annaawan/realestate)**
+  Full-stack web app for property listings with secure auth, dynamic search, and complete CRUD.
 
 - 📔 **[E-Diary (Flutter & ASP.NET Web API)](https://github.com/AskariSyed/Diary)**
   Digital diary app with REST API backend, drag-and-drop functionality, provider-based state management, and CRUD operations for notes and tasks.
+
+- 🎥 **[Video Rental System (Java)](https://github.com/AskariSyed/VideoRentalSystemFinal)**
+  Desktop app with inventory and rental tracking via file handling.
 
 ---
 
@@ -141,6 +170,15 @@ Utilized Excel and VBA macros to automate reporting and streamline testing proce
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AskariSyed&theme=tokyonight" />
 </p>
+
+---
+
+### 🏆 Certifications & Honors
+- Software QA & Test Automation Engineering Specialization — Coursera (Jul 2026)
+- Google Cybersecurity Professional Certificate — Coursera (Sep 2023)
+- Merit Certificate — Perfect 4.00/4.00 SGPA, 7th Semester (2025)
+- IELTS Academic — Band 7.0
+- Head of Operations / Advisor, Student Startup Business Society (Sep 2024 – Jun 2026)
 
 ---
 
