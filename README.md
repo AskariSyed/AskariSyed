@@ -156,6 +156,9 @@ Proposed a task-aware multi-stage framework, improving EfficientNet-B2 classific
   <a href="https://github.com/AskariSyed/VideoRentalSystemFinal">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AskariSyed&repo=VideoRentalSystemFinal&theme=tokyonight" width="48%" />
   </a>
+  <a href="https://github.com/AskariSyed/AI-Email-Copilot">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AskariSyed&repo=AI-Email-Copilot&theme=tokyonight" width="48%" />
+  </a>
 </p>
 
 ---
