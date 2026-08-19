@@ -138,23 +138,23 @@ Proposed a task-aware multi-stage framework, improving EfficientNet-B2 classific
 
 <p align="center">
   <a href="https://github.com/AskariSyed/BankingManagementSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AskariSyed&repo=BankingManagementSystem&theme=tokyonight" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AskariSyed&repo=BankingManagementSystem&theme=tokyonight" width="48%" />
   </a>
   <a href="https://github.com/AskariSyed/Event-Reminder-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AskariSyed&repo=Event-Reminder-App&theme=tokyonight" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AskariSyed&repo=Event-Reminder-App&theme=tokyonight" width="48%" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/annaawan/realestate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=annaawan&repo=realestate&theme=tokyonight" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=annaawan&repo=realestate&theme=tokyonight" width="48%" />
   </a>
   <a href="https://github.com/AskariSyed/Diary">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AskariSyed&repo=Diary&theme=tokyonight" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AskariSyed&repo=Diary&theme=tokyonight" width="48%" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/AskariSyed/VideoRentalSystemFinal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AskariSyed&repo=VideoRentalSystemFinal&theme=tokyonight" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AskariSyed&repo=VideoRentalSystemFinal&theme=tokyonight" width="48%" />
   </a>
 </p>
 
@@ -162,9 +162,9 @@ Proposed a task-aware multi-stage framework, improving EfficientNet-B2 classific
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AskariSyed&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AskariSyed&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AskariSyed&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AskariSyed&layout=compact&theme=tokyonight" />
 </p>
 
 ---
