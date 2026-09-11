@@ -16,6 +16,7 @@
   <a href="mailto:askari.syed04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/syed-hassan-askari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://portfolioaskarisyed.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://research-with-askari.vercel.app/"><img src="https://img.shields.io/badge/Research-Portfolio-252F3F?style=for-the-badge&logo=vercel&logoColor=white" alt="Research Portfolio" /></a>
 </p>
 
 🎓 **BS Computer Science** – COMSATS University Islamabad, Wah Campus (2022–2026) · CGPA 3.65/4.00
